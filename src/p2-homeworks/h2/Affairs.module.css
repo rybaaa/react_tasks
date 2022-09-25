@@ -1,0 +1,47 @@
+.block {
+
+}
+
+.item {
+    margin-left: 10px;
+    width: 500px;
+}
+
+.priority {
+    margin: 0 0 0 50px;
+}
+
+.button_delete {
+    margin: 0 0 0 50px;
+    width: 50px;
+    color:red;
+    background: peachpuff;
+}
+
+.button_priority {
+    margin-left:10px;
+    width: 60px;
+    color:black;
+    background: peachpuff;
+}
+
+.button_priority_high {
+    margin-left:10px;
+    width: 60px;
+    color:black;
+    background: red;
+}
+
+.button_priority_middle {
+    margin-left:10px;
+    width: 60px;
+    color:black;
+    background: orange;
+}
+
+.button_priority_low {
+    margin-left:10px;
+    width: 60px;
+    color:black;
+    background: deepskyblue;
+}
